@@ -1,6 +1,7 @@
 [submodule "external/timemory"]
 	path = external/timemory
-	url = https://github.com/NERSC/timemory.git
+	url = git@github.com:ajanicijamd/timemory.git
+	branch = omnitrace
 [submodule "external/perfetto"]
 	path = external/perfetto
 	url = https://android.googlesource.com/platform/external/perfetto
