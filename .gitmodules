@@ -11,7 +11,7 @@
 [submodule "external/dyninst"]
 	path = external/dyninst
 	url = git@github.com:ajanicijamd/dyninst.git
-	branch = omnitrace
+	branch = 6bfa6fe32fcdf44822730c0f7eee9ced6409f3cc
 [submodule "external/PTL"]
 	path = external/PTL
 	url = https://github.com/jrmadsen/PTL.git
